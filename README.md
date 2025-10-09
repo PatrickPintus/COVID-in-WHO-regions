@@ -1,4 +1,5 @@
-
+Data and code to replicate analysis in "A Comparative Analysis of Infection and Mortality in Reassessing Africa’s COVID-19 Dynamic using Time-Varying Tests"
+by Stéphane Luchini, Constantin Pfauwadel, Patrick A. Pintus, Michael Schwarzinger, Miriam Teschl
 
 countries_base_1.csv contains COVID-19 tests, positive cases and COVID-19 related deaths by country and week for the primary databse (89 countries)
 
