@@ -14,3 +14,7 @@ df2020.csv COVID-19 testing rates and other country-level data (see Methods) for
 df2021.csv COVID-19 testing rates and other country-level data (see Methods) for year 2021
 
 accelerationindex.R is an R code for computing the acceleration index
+
+the zip folder Source Data Figure 4 contains files to replicate Figure 4
+
+the zip folder Source Data and R Code Figure 5 contains files to replicate Figure 5
